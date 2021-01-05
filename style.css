@@ -1,0 +1,17 @@
+header{margin-top: 30px;}
+header div{display: inline;margin: 30px;}
+header nav ul li {display: inline;margin-left: 30px;margin-right: 80px;
+ }
+ header nav ul li img{margin-top: 30px;}
+a {text-decoration: none;  }
+body section nav img{margin: 30px;}
+section ul{margin-bottom: 30px;}
+body section ul li {display: inline;margin-left: 30px;}
+section div img{float: left;margin-left: 30px;margin-right: 30px;}
+body section div{display: inline;}
+     section div nav p {  overflow: scroll;width: 460px;height: 380px;}
+     input{
+        background-color: #350;
+     }
+     footer img{margin-top: 30px;
+        width: 100%;}
